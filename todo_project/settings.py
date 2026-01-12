@@ -34,6 +34,7 @@ ALLOWED_HOSTS = [
     'testtttttt-kf9v.onrender.com',
     'ostad-batch-09-1-cwz9.onrender.com',
     '.onrender.com',
+    '.vercel.app',
 
 ]
 
